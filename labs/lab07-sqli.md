@@ -1,5 +1,7 @@
 # Lab: Gain Access to Website
 
+## Instructions
+
 Visit [redacted URL --see Canvas]. Without using any tools such as Burp Suite or sqlmap, and only using a modern web browser, gain access to the website --bypass the login.
 
 1. Explain what you did, what you used for username and password fields.
