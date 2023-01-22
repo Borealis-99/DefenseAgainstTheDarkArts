@@ -14,7 +14,7 @@ You are given three sets of packet captures from three different networks in PCA
 
 Download the following PCAP files:
 
-* Set 1: https://www.cs.tufts.edu/comp/116/set1.pcap (697 KB)
+* Set 1: https://www.cs.tufts.edu/comp/116/set1.pcap (5.8 MB)
 * Set 2: https://www.cs.tufts.edu/comp/116/set2.pcap (14 KB)
 * Set 3: https://www.cs.tufts.edu/comp/116/set3.pcap (61 MB. NOTE: I am not responsible for the contents in this PCAP.)
 
